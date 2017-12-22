@@ -1,0 +1,124 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#top
+{
+    overflow:hidden;
+    box-sizing: border-box;
+}
+#office
+{
+   height:52px;
+   line-height: 52px;
+   box-sizing: border-box;
+   text-align:center;
+   font-weight:bold; 
+   float: left;
+   width:80%;
+}
+#title
+{
+    float:left;
+    height:52px;
+    line-height: 52px;
+    width:10%;
+    font-weight:bold; 
+}
+#picture
+{
+    float: right;
+    width:10%;
+}
+#empty
+{
+    overflow: hidden;
+}
+#middle
+{
+    width:100%;
+    height:400px;
+    background-color: rgb(42, 219, 219);
+    border-bottom: 2px solid #c2c2c2;
+}
+#third
+{
+    width:100%;
+    height:34px;
+    line-height:34px; 
+    font-size: 15px;
+    text-align: center;
+    border-bottom: 2px solid #c2c2c2;
+}
+ul
+{
+    list-style: none;
+    overflow: hidden;
+}
+li
+{
+    float: left;
+    width:33.3333333%;
+}
+.product
+{
+    border-bottom: 2px solid #c2c2c2;
+    box-sizing: border-box;
+    overflow: hidden;
+    width:100%;
+}
+.photo
+{
+    margin: 3px;
+    width:300px;
+    height:300px;
+    background-color: rgb(71, 238, 71);
+    float:left;
+}
+.word
+{
+    float：right;
+    box-sizing: border-box;
+}
+.name
+{
+    font-size: 17px;
+    margin-top: 4px;
+}
+.introduction
+{
+    font-size: 14px;
+}
+.empty
+{
+    height:230px;
+}
+.im
+{
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.price
+{
+    margin: 3px;
+    float:left;    
+}
+.number
+{
+    float:right;  
+}
+.first
+{
+    font-size: 14px;
+    color:rgb(236, 118, 39);
+}
+.second
+{
+    font-size: 18px;
+    color:rgb(236, 118, 39);
+}
+.payment
+{
+    font-size: 14px;
+}
